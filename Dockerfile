@@ -13,4 +13,4 @@ ENV GROUP_USERNAME=@Indian_hacker_group
 ENV CHANNEL_USERNAME=@Falcon_Securitykkkii
 ENV OWNER_ID=5460343986
 
-CMD ["python", "bot.py"]
+CMD ["python", "app.py"]
