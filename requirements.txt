@@ -1,0 +1,3 @@
+aiogram==3.16.0
+shodan==2.0.0
+httpx==0.21.0
